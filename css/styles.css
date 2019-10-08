@@ -163,6 +163,41 @@ input[type=email] {
 
 /* Footer Style */
 
+/* Styling Font-Awesome Icons*/
+
+.fa-github,
+.fa-youtube{
+  font-size: 24px;
+  padding:4em 0 2em 0;
+  text-decoration: none;
+  text-decoration-style: none;
+  color:black;
+}
+
+.fa-github a:hover{
+  color:blue;
+}
+
+.fa-youtube a:hover{
+  color:blue;
+}
+
+.fa-github a:visited{
+  color:black;
+}
+
+.fa-youtube a:visited{
+  color:black;
+}
+#bTT a{
+  text-decoration: none;
+  color:black;
+}
+
+#bTT a:hover{
+  color:blue;
+}
+
 #footer{
   position: absolute;
   width:100%;
