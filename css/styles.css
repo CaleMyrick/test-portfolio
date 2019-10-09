@@ -170,7 +170,7 @@ input[type=email] {
   font-size: 24px;
   padding:4em 0 2em 0;
   text-decoration: none;
-  text-decoration-style: none;
+
   color:black;
 }
 
@@ -196,15 +196,4 @@ input[type=email] {
 
 #bTT a:hover{
   color:blue;
-}
-
-#footer{
-  position: absolute;
-  width:100%;
-  bottom:0;
-  height:2em;
-  background-color:black;
-  left:0;
-  margin:0;
-  padding:0;
 }
