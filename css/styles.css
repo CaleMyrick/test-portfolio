@@ -150,6 +150,12 @@ input[type=email] {
   margin-bottom:2em;
 }
 
+/* Styling for form button */
+
+#submit{
+  padding: 0 2em 0 2em;
+  color:blue;
+}
 
 
 
